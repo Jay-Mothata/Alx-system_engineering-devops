@@ -1,0 +1,2 @@
+#!/binbash
+chmod -R +x .
